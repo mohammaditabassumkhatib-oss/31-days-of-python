@@ -1,0 +1,10 @@
+Customer: Alex
+
+Order:
+Burger - ₹250
+Pizza - ₹400
+Coke - ₹80
+
+Subtotal: ₹730
+Service charge: ₹73.0
+Final total: ₹803.0
